@@ -1,0 +1,17 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -9,9 +9,14 @@
+ 		<ul></ul>
+ 		<ol></ol>
+ 			<li></li>
++
+ 			<li></li>
+ 			<h1>asdasdasd</h1>
+ 			<h1>asdasdasd</h1>
+ 			<h2>asdasd</h2>
++
++			
++			<h1>asdlkj</h1>
++
+ 	</body>
+ </html>
+\ No newline at end of file
